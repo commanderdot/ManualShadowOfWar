@@ -1,0 +1,26 @@
+{
+    "Slaughter Tribe": {
+    "yaml_option": [
+      "Slaughter_Tribe_Missions_Enabled"
+    ]},
+    "Outlaw Tribe": {
+    "yaml_option": [
+      "Outlaw_Tribe_Missions_Enabled"
+    ]},
+    "Gear": {
+    "yaml_option": [
+      "Gearsanity_Enabled"
+    ]},
+    "Lithlad": {
+    "yaml_option": [
+      "Lithlad_Enabled"
+    ]},
+    "Blade of Galadriel": {
+    "yaml_option": [
+      "Blade_of_Galadriel_Enabled"
+    ]},
+    "Desolation of Mordor": {
+    "yaml_option": [
+      "Desolation_of_Mordor_Enabled"
+    ]}
+}
