@@ -1,0 +1,432 @@
+[
+  {
+    "count": "46",
+    "name": "Progressive Main Quest",
+    "category": ["Unlocks"],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Fortress Assault",
+    "category": ["Unlocks"],
+    "progression": true
+  },
+  {
+    "name": "1 Skill Point",
+    "classification_count": {
+      "progression": 26,
+      "filler": 82
+    },
+    "category": ["Upgrades"]
+  },
+  {
+    "count": "6",
+    "name": "Unlock Gem Slot",
+    "category": ["Upgrades"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Ithildin",
+    "category": ["Unlocks"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Web of Fates/Shelob Memories",
+    "category": ["Unlocks"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Lost/Gondorian Artifacts",
+    "category": ["Unlocks"],
+    "progression": true
+  },
+  {
+    "count": 10,
+    "name": "Progressive Shadow Wars",
+    "category": ["Unlocks"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sappers",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mounted Cavalry",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Oloh-hai",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Savage Host (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Defender Host (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter Host (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fiery Siege Beasts (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poisonous Siege Beasts (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cursed Siege Beasts (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shelob's Brood",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "War Graug (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wild Drake",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Archers (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Farsight Archers (Assault)",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mounted Archers",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Inspiring Banners",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Overpower",
+    "category": ["Siege Assault Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Walls",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Reinforced Stone Walls",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Walls",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Gates",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poison Spouts",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Spouts",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Savage Host (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Defender Host (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter Host (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fiery Siege Beasts (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poisonous Siege Beasts (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cursed Siege Beasts (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "War Caragors",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hellfire",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "War Graug (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spiked Walls",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Archers (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Farsight Archers (Defense)",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poison Mines",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Mines",
+    "category": ["Siege Defense Upgrades"],
+    "filler": true
+  },
+  {
+    "count": 22,
+    "name": "Random Training Order",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Unlock Slaughter Tribe Missions",
+    "category": ["Unlocks", "Slaughter Tribe"],
+    "progression": true
+  },
+  {
+    "count": 19,
+    "name": "Bloody Intel",
+    "category": ["Slaughter Tribe"],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Unlock Outlaw Tribe Missions",
+    "category": ["Unlocks", "Outlaw Tribe"],
+    "progression": true
+  },
+  {
+    "count": 19,
+    "name": "Wild Caragor",
+    "category": ["Outlaw Tribe"],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Collect Common Gear",
+    "category": ["Unlocks", "Gear"],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Collect Rare Gear",
+    "category": ["Unlocks", "Gear"],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Collect Epic Gear",
+    "category": ["Unlocks", "Gear"],
+    "progression": true
+  },
+  {
+    "count": 15,
+    "name": "Broken Equipment",
+    "category": ["Gear"],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Unlock Lithlad",
+    "category": ["Unlocks", "Lithlad"],
+    "progression": true
+  },
+  {
+    "count": 16,
+    "name": "Fake Loot Chests",
+    "category": ["Lithlad"],
+    "filler": true
+  },
+  {
+    "count": "8",
+    "name": "Progressive Eltariel Quest",
+    "category": ["Unlocks", "Blade of Galadriel"],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Unlock Beast Hunter Gear",
+    "category": ["Unlocks", "Blade of Galadriel"],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Unlock Ice Stalker Gear",
+    "category": ["Unlocks", "Blade of Galadriel"],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Unlock Serpent Tamer Gear",
+    "category": ["Unlocks", "Blade of Galadriel"],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Unlock Fire Chaser Gear",
+    "category": ["Unlocks", "Blade of Galadriel"],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Eltariel Gem Slot",
+    "category": ["Unlocks", "Blade of Galadriel"],
+    "useful": true
+  },
+  {
+    "name": "Eltariel 1 Skill Point",
+    "classification_count": {
+      "progression": 6,
+      "filler": 10
+    },
+    "category": ["Unlocks", "Blade of Galadriel"]
+  },
+  {
+    "count": "5",
+    "name": "Progressive Baranor Quest",
+    "category": ["Unlocks", "Desolation of Mordor"],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Torvin Skill Upgrades",
+    "category": ["Unlocks", "Desolation of Mordor"],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Baranor 1 Skill Point",
+    "category": ["Desolation of Mordor"],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Equip Sword Augments",
+    "category": ["Desolation of Mordor"],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Equip Dagger Augments",
+    "category": ["Desolation of Mordor"],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Equip Crossbow Augments",
+    "category": ["Desolation of Mordor"],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Equip Shield Augments",
+    "category": ["Desolation of Mordor"],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Equip Armor Augments",
+    "category": ["Desolation of Mordor"],
+    "useful": true
+  }
+]

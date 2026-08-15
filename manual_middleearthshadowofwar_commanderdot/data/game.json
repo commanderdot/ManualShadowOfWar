@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MiddleEarthShadowofWar",
+  "creator": "commanderdot",
+  "filler_item_name": "Reserve Orc Captain",
+  "starting_items": []
+}
